@@ -1,1 +1,7 @@
-
+#Ignory binary file
+binario
+*.exe
+*.dll
+*.bak
+*.ori
+*.obj
